@@ -196,6 +196,13 @@ This eliminates manual reporting and supports **live operational decision-making
 4. **Improve Profit Tracking Strategy**
 
    * Shift focus from revenue growth to **margin-driven growth**
+---
+
+## 🔗 Project Access
+
+You can view and interact with the full dashboard here:
+
+- 📊 **Live Project / File:** [Open Work](https://github.com/Osi-Chidera-John/-Clinical-Predictive-Analytics-Dashboard/blob/main/Heart_Disease_Prediction.xlsx)
 
 ---
 
