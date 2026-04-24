@@ -202,7 +202,7 @@ This eliminates manual reporting and supports **live operational decision-making
 
 You can view and interact with the full dashboard here:
 
-- 📊 **Live Project / File:** [Open Work](https://github.com/Osi-Chidera-John/-Clinical-Predictive-Analytics-Dashboard/blob/main/Heart_Disease_Prediction.xlsx)
+- 📊 **Live Project / File:** [Open Work](https://github.com/Osi-Chidera-John/Retail-Sales-Performance-Intelligence-Dashboard-2023-2025-/blob/main/Retail_Sales.xlsm)
 
 ---
 
