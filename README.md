@@ -214,7 +214,7 @@ This project highlights:
 ## 📬 Contact
 
 * 📧 Email: chiderajohn519@gmail.com
-* 💼 LinkedIn: your_linkedin_here
+* 💼 LinkedIn:  www.linkedin.com/in/john-chidera-osi-0b6b55319
 
 ---
 
