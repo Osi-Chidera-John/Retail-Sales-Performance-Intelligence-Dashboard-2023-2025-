@@ -163,7 +163,7 @@ This eliminates manual reporting and supports **live operational decision-making
 
 ### 📌 Executive Dashboard Overview
 
-![Dashboard Overview](INSERT_IMAGE_LINK_HERE)
+![Dashboard Overview](Retaildashboard.png)
 
 
 ---
